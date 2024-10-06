@@ -41,3 +41,9 @@ button {
 .flex.col{
     flex-direction:column;
 }
+.flex-rowgp20{
+    row-gap:20px
+}
+.flex-colgp20{
+    column-gap:20px
+}
