@@ -35,4 +35,9 @@ button {
 #save-btn {
     background: darkgreen;
 }
-
+.flex{
+    display:flex;
+}
+.flex.col{
+    flex-direction:column;
+}
